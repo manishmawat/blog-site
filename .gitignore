@@ -1,0 +1,35 @@
+# Hugo build output
+/public/
+/resources/
+
+# Node modules
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Hugo cache
+.cache/
+
+# Netlify build output
+.netlify/
+
+# Python cache
+__pycache__/
+
+# Misc
+.env
+*.tmp
